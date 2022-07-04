@@ -1,1 +1,4 @@
 git rm -r --cached C:\Users\User\Documents\PersonalProjects\research\bigan\data
+early-stopping-pytorch/
+data/
+bigan_env.yml
